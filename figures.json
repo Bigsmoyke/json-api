@@ -1,0 +1,108 @@
+{
+  "data": [
+  {
+    "id":1,
+    "title":"Устрицы по рокфеллеровски",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/1.jpg",
+      "alt": "food"
+    },
+    "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+    "price": 2700,
+    "weight": 500,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
+  },
+  {
+    "id":2,
+    "title":"Свиные ребрышки на гриле с зеленью",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/2.jpg",
+      "alt": "food"
+    },
+    "description": "Не следует, однако забывать, что реализация намеченных плановых",
+    "price": 1600,
+    "weight": 750,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
+  },
+  {
+    "id":3,
+    "title":"Креветки по-королевски в лимонном соке",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/3.jpg",
+      "alt": "food"
+    },
+    "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу",
+    "price": 1820,
+    "weight": 7,
+    "priceMeasure": "₽",
+    "weightMeasure": "шт"
+  },
+  {
+    "id":4,
+    "title":"Устрицы по рокфеллеровски",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/4.jpg",
+      "alt": "food"
+    },
+    "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+    "price": 2700,
+    "weight": 500,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
+  },
+  {
+    "id":5,
+    "title":"Свиные ребрышки на гриле с зеленью",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/5.jpg",
+      "alt": "food"
+    },
+    "description": "Не следует, однако забывать, что реализация намеченных плановых",
+    "price": 1600,
+    "weight": 750,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
+  },
+  {
+    "id":6,
+    "title":"Креветки по-королевски в лимонном соке",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/6.jpg",
+      "alt": "food"
+    },
+    "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу",
+    "price": 1820,
+    "weight": 7,
+    "priceMeasure": "₽",
+    "weightMeasure": "шт"
+  },
+  {
+    "id":7,
+    "title":"Устрицы по рокфеллеровски",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/7.jpg",
+      "alt": "food"
+    },
+    "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+    "price": 2700,
+    "weight": 500,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
+  },
+  {
+    "id":8,
+    "title":"Свиные ребрышки на гриле с зеленью",
+    "main_image": {
+      "src": "https://bigsmoyke.github.io/json-api/images/8.jpg",
+      "alt": "food"
+    },
+    "description": "Не следует, однако забывать, что реализация намеченных плановых",
+    "price": 1600,
+    "weight": 750,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
+  }
+]
+}
